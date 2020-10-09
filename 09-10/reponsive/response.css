@@ -1,0 +1,17 @@
+/*response.css*/
+
+body{
+	background-image:C:\Users\hp\Desktop\Pictures\downloads\nitpb.jpg;
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+}
+html{
+height:100%;}
+
+.butt{ width: 80px;
+height: 50px;
+background-color:black;
+color:white;}
+
+.text,.name,.branch{ color:yellow}
+
